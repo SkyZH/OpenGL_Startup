@@ -1,0 +1,3 @@
+// the configured options and settings for Tutorial
+#define GLTest_VERSION_MAJOR @GLTest_VERSION_MAJOR@
+#define GLTest_VERSION_MINOR @GLTest_VERSION_MINOR@
